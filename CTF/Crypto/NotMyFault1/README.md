@@ -2,7 +2,7 @@ Content:
 
 not_my_fault.py 		- original script from picoCTF
 
-fault_Digit_to_HASH.py 	- ticket to fairy land
+fault_Digit_to_HASH.py 	- ticket to fairyland
 
 randome_attack_gmp.py 	- solve main problem
 
