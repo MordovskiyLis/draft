@@ -3,7 +3,7 @@ import random
 import string
 import hashlib
 import time
-# picoCTF{1_c4n *** 4774ck!!!}
+
 from Crypto.Util.number import inverse, getPrime, bytes_to_long, GCD
 from sympy.ntheory.modular import solve_congruence
 
